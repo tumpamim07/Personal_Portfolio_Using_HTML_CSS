@@ -11,3 +11,14 @@
     background-color: yellow;
     padding: 10px 20px ;
 }
+
+.nav-whole{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.nav-whole img{
+    max-height: fit-content;
+}
